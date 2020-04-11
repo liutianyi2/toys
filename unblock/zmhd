@@ -1,0 +1,1449 @@
+HTTP/1.1 200 OK
+Date: Sun, 15 Mar 2020 03:52:09 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 54929
+Connection: close
+Server: nginx
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Set-Cookie: __RequestVerificationToken=_8oekoHAKqCxtXhLyPzbdmiCa4T5aICchCWp1VhGAJLiZUeV5Ywlh79fhbf5BKaoDQr1_g2; path=/; HttpOnly
+ServerResponseDuration: 359.3778ms
+X-PowerEasy-Version: 2.1.0.1
+X-PowerEasy-Product: SiteAzure
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-IP: 11
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" />
+    <meta name="description" />
+    <meta name="baidu-site-verification" content="joAwpMAW5W" />
+    <meta name="application-name" content="泸县政府网站" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="renderer" content="webkit" />
+    <meta name="format-detection" content="telephone=no, email=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name ="SiteName" content = "泸县政府网站" />
+<meta name ="SiteDomains" content = "http://www.luxian.gov.cn" />
+<meta name ="SiteIDCode" content = "" />
+<meta name ="ColumnName" content = "政民互动" />
+<meta name ="ColumnDescription" content = "" />
+<meta name ="ColumnKeywords" content = "" />
+<meta name ="ColumnType" content = "" />
+<meta name ="keywords" content = "" />
+<meta name ="description" content = "政民互动" />
+
+      
+    <title>政民互动_泸县政府网站</title>
+    
+    <link href="/Content/Main/Base/css/module.css?v=SVU0268hwkFYetZzwcir_TAekLVf_ySawFCFSGItifg" rel="stylesheet" type="text/css" />
+    <link href="/Content/Main/Base/css/default.css?v=5dFL26YKnRJR5kJzXQ7gLles9_-Sw-3aouB4ojpI58E" rel="stylesheet" type="text/css" />
+    
+<link href="/Content/Main/Interaction/css/interaction.css?v=FyVFxx-o_DSv1_vrU9n-ZX7RNdK0WiH9pqqc8v_NscE" rel="stylesheet" />
+
+
+    <link href="/Content/_Common/Base/css/power.css?v=jh9GN8yDcR2ZctU_i2ibjQt_d7QdoyDrxgQF4IkW8Cs" rel="stylesheet" />
+    <link href="/free_Web/free_Web.css?v=X1ENhrj820IV9f-NGtJh3vP1leM0uRRZhmxr3A0S-78" rel="stylesheet" />
+    <script src="/Content/_Common/Assets/Scripts/jquery.js?v=KWtgbNmKp3W3gPv79dNWw83dRdpUjELKJO5av4Cq3LY"></script>
+    <script src="/Content/_Common/Assets/Scripts/jquery.cookie.js?v=Hn2WhBK0Tt0Jxw79J8xEUygpggN6Cwgn1KUkIYEkfIw"></script>
+    
+    <script src="/Content/_Common/Base/js/webCommon.js?v=4sUxqpgZt8iCkmHN6m6XKvT-2MSsdg_pQC_goiDwL6s"></script>
+    <script src="/Content/_Common/Base/js/layer/layer.js?v=8zF7E8cX1YwLnh8G8qeoliooTbEeII8h1VfU7ThkJrk"></script>
+    <script src="/Content/_Common/Base/js/jquery.SuperSlide.js?v=4QzTl4QGx6fpBcTG4y-MYbqUEmTtBvYbv790GKm280k"></script>
+    <script src="/Content/_Common/Base/js/StoT.js?v=yOp8uUylB0PFBCfPIvecY1-hn8xiqNlFrIDIMu0u_FA"></script>
+    <script src="/Content/_Common/Assets/Scripts/qrcode.min.js?v=xUHvBjJ4hahBW8qN9gceFBibSFUzbe9PNttUvehITzY"></script>
+    <script src="/Content/_Common/Base/js/power.core.js?v=YbL7I12nojUif6y8DS4RdOi1zQc7c5x0UfIfb8CNiQ8"></script>
+    <script src="/Content/_Common/Base/js/power.security.csrf.js?v=Z2SXqpkmS6bmFnmklhPFbKg7GRK_sRqJ_cXprO_trYY"></script>
+</head>
+<body class="interactionPage">
+    
+
+
+
+
+<div class="wrap">
+    <input name="__RequestVerificationToken" type="hidden" value="6gTHpwQg3bjY7deVLJnpbxoJG2ysoAmNISBWT3DmKc2_fMJBbavOWoqLJKWjD9aeYmpFeg2" />
+
+
+<!-- header S -->
+<header id="header">
+    <div class="headerTop siteWidth">
+		<span class="govLinks">
+            <a target="_blank" href="http://www.gov.cn/">中央人民政府</a>
+            <a target="_blank" href="http://www.sc.gov.cn/">四川省人民政府</a>
+            <a target="_blank" href="http://www.luzhou.gov.cn/">泸州市人民政府</a>
+        </span>
+
+	
+       <div id="banner">
+            
+
+
+    <div class="bd">
+        <ul>
+                <li class="li1"
+                    style="background: url(/upload/main/advertisement/e267a54b7e88428a91ded6f343496473_1240_300.jpg) center 0 no-repeat">
+                    <a class="link" target="_self" style="height: 300px; display: block;"></a>
+
+                    <div class="con">
+                        <h3 class="title"><a class="tit" target="_self">…</a></h3>
+                        <span class="titleBg"></span>
+                    </div>
+
+                </li>
+                <li class="li2"
+                    style="background: url(/upload/main/advertisement/662f1677346d48e7969911b5c889aa8f_1240_300.jpg) center 0 no-repeat">
+                    <a class="link" target="_self" style="height: 300px; display: block;"></a>
+
+                    <div class="con">
+                        <h3 class="title"><a class="tit" target="_self">…</a></h3>
+                        <span class="titleBg"></span>
+                    </div>
+
+                </li>
+                <li class="li3"
+                    style="background: url(/upload/main/advertisement/b2c794c1cecc43eb97bf8de5e5cadc7d_1240_300.jpg) center 0 no-repeat">
+                    <a class="link" target="_self" style="height: 300px; display: block;"></a>
+
+                    <div class="con">
+                        <h3 class="title"><a class="tit" target="_self">…</a></h3>
+                        <span class="titleBg"></span>
+                    </div>
+
+                </li>
+        </ul>
+    </div>
+        <div class="hd">
+            <ul>
+                    <li class="li1">
+
+                            <span>1</span>
+                    </li>
+                    <li class="li2">
+
+                            <span>2</span>
+                    </li>
+                    <li class="li3">
+
+                            <span>3</span>
+                    </li>
+            </ul>
+        </div>
+    <a class="prev" href="javascript:void(0)"></a>
+    <a class="next" href="javascript:void(0)"></a>
+
+        </div>
+        <div id="logo">
+            <embed width="400" height="130" src="/Content/Main/Base/swf/logo.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent" />
+        </div>
+        <div class="bannerWz">
+            <embed width="900" height="80" src="/Content/Main/Base/swf/wz.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent" />
+        </div>
+
+        <script>
+        jQuery("#banner")
+        .slide({mainCell:".bd ul", autoPlay:true,delayTime:2000, effect:"fold"});
+        </script>
+	
+
+        <span class="links clearfix">
+            <dl class="phone">
+                <dt><a href="/ForceUserAgent/ForceUserAgent/?useragent=phone"></a></dt>
+                <dd><div data-content="http://www.luxian.gov.cn/zmhd" data-powertype="qrcode" data-size="100"></div><i></i></dd>
+            </dl>
+            <dl class="wb">
+                <dt><a target="blank" href="https://m.weibo.cn/u/5871897581"></a></dt>
+                <dd><img src="/Content/Main/Base/img/lxwb.jpg" /><i></i></dd>
+            </dl>
+            <dl class="wx">
+                <dt></dt>
+                <dd><img src="/Content/Main/Base/img/wx.jpg" /><i></i></dd>
+            </dl>
+            <dl class="free">
+                <dt><a target="blank" href='/wca.html'></a></dt>
+            </dl>
+            <dl class="tra">
+                <dt><a id="ST_translate" onclick="do_simple_to_traditional();">繁</a></dt>
+            </dl>
+            <dl class="en">
+                <dt><a href="/english">English</a></dt>
+            </dl>
+        </span>
+        <script>
+        //手机版显示二维码
+        hover($(".headerTop dl"), "on");
+        </script>
+        <div class="rq">
+            <script src="/Content/_Common/Base/js/show_date.js"></script>
+        </div>
+<!--         <div class="weather">
+            
+        </div> -->
+         <div class="siteSearchBar" id="JS_hideBox1" hideBox>
+            
+
+
+<link href="/Content/_Common/Search/css/modal.css?v=fVFRq6dDo3v1vIGSUls6yBzokOGxJ6wJp_5q_EpyDsM" rel="stylesheet" />
+
+<div class="s-form">
+        <input type="hidden" id="sitelist" value="[{&quot;Name&quot;:&quot;全站群&quot;,&quot;Value&quot;:&quot;0&quot;,&quot;Identifier&quot;:&quot;&quot;},{&quot;Name&quot;:&quot;本站&quot;,&quot;Value&quot;:&quot;1&quot;,&quot;Identifier&quot;:&quot;&quot;},{&quot;Name&quot;:&quot;卫计局&quot;,&quot;Value&quot;:&quot;2&quot;,&quot;Identifier&quot;:&quot;&quot;},{&quot;Name&quot;:&quot;泸县农民工网&quot;,&quot;Value&quot;:&quot;3&quot;,&quot;Identifier&quot;:&quot;&quot;},{&quot;Name&quot;:&quot;高新区医药产业园&quot;,&quot;Value&quot;:&quot;4&quot;,&quot;Identifier&quot;:&quot;&quot;}]" />
+        <input type="hidden" id="siteid" name="sid" value="0">
+        <input type="hidden" id="loweridentifier" name="lsi" value="">
+        <div class="select-box">
+            <a id="sOptionBtn" class="s-option" href="javascript:void(0)">全站群</a>
+            <i class="arrow-dn"></i>
+        </div>
+    <div class="input-box">
+        <input type="text" class="from-control" id="inputkeyword" maxlength="50" name="wd" data-url="/SearchKeywordRecord/GetAssociativeWord" placeholder="请输入关键词" spellcheck="false">
+        <div class="dropdown-word">
+            <ul></ul>
+        </div>
+    </div>
+    <div class="btn-box">
+        <input type="button" id="search" class="btn search" data-val-captcha-visible-url="/captcha/IsValCodeVisible" onclick="gSearch();" value="搜 索">
+        <input type="hidden" id="route" value="s" />
+    </div>
+</div>
+
+
+<div id="VolidateCodeDiv" class="modal in" aria-hidden="false" style="display:none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title" id="gridSystemModalLabel">搜索过于频繁，请输入验证码</h4>
+            </div>
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <div style="max-height: 600px;">
+                        <input class="form-control" data-val="true" data-val-captcha="验证码输入错误，请重新输入。" data-val-captcha-url="/captcha/validate" id="SearchValidateCode" name="vc" placeholder="请输入验证码" type="text" value=""><div class="validationcode" data-captcha-url="/captcha/generatecaptcha" data-type="captcha"></div>
+                        <span class="field-validation-error"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a class="btn btn-sm btn-primary" id="confirmNotApprove" data-ajax="true" data-id="search"><i class="fa fa-power-tuigao"></i>&nbsp;确定</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal-backdrop in"></div>
+
+<script src="/Content/_Common/FullTextSearch/js/default-site-search-box.js?v=iWKPgT2jsalYHegCOOYrgwxpmdzRqn-KIHcZ23ql6GI"></script>
+<script src="/Content/_Common/Base/js/power.ui.captcha.js?v=NvJTT-ZTGN9Cf_ZJyY03JAP_MR13ZpCzbbiw56CLv8Q"></script>
+<script src="/Content/_Common/FullTextSearch/js/power.fulltextsearch.captchamodal.js?v=ro3p7WU8VWs90JDxIIY-272cttdpcYcHMa8-9Q3RsIs"></script>
+<script src="/Content/_Common/FullTextSearch/js/power.fulltextsearch.wordselect.js?v=g-XMKV-fQXW0RouwpiFr7CKuexKgx_a841nB7QJenxs"></script>
+<script>
+    document.getElementById("inputkeyword").onkeydown = function (e) {
+        e = e || window.event;
+        if (e.keyCode == 13) {
+            gSearch();
+        }
+    };
+
+    function gSearch() {
+        var keyword = document.getElementById('inputkeyword').value;
+        if (keyword == '' || keyword == "请输入关键词") {
+            alert("请输入关键词");
+        } else {
+            validateCode(function () {
+                var route = document.getElementById('route').value;
+                var siteid = document.getElementById('siteid').value;
+                var siteIdentifier = document.getElementById('loweridentifier').value;
+                var validCode = $("#SearchValidateCode").val();
+                window.location = '/' + route + '?sid=' + siteid + '&wd=' + encodeURIComponent(keyword) + (siteIdentifier == "" ? "" : "&lsi=" + siteIdentifier) + '&vc=' + validCode;
+            });
+        }
+    }
+</script>
+        </div>
+      
+        <!-- banner E -->
+    </div>
+</header>
+<!-- header E -->
+
+
+<!-- nav S -->
+<nav class="topNav clearfix" id="JS_hideBox2" hideBox>
+    <div class="siteWidth">
+        
+
+
+<ul id="mainNav" class="mainNav">
+    <li class="li1 first1" id="li-home">
+        <h3 class="h1">
+                <a class="a1" href='http://www.luxian.gov.cn'>网站首页</a>
+            <span class="bg"></span>
+        </h3>
+    </li>
+
+        <li class="li1 hasUl1" id="li-xgk1">
+            <h3 class="h1">
+                <a class="a1" href="/xgk1">泸县概况</a></h3>
+        </li>
+        <li class="li1 hasUl1" id="li-ldzc">
+            <h3 class="h1">
+                <a class="a1" href="/ldzc">领导之窗</a></h3>
+        </li>
+        <li class="li1 hasUl1" id="li-jgzn">
+            <h3 class="h1">
+                <a class="a1" href="/jgzn">机构职能</a></h3>
+        </li>
+        <li class="li1 hasUl1" id="li-zwgk">
+            <h3 class="h1">
+                <a class="a1" href="/zwgk">政务公开</a></h3>
+        </li>
+        <li class="li1 hasUl1" id="li-bsfw">
+            <h3 class="h1">
+                <a class="a1" href="/bsfw">政务服务</a></h3>
+        </li>
+        <li class="li1 hasUl1 on1" id="li-zmhd">
+            <h3 class="h1">
+                <a class="a1" href="/zmhd">政民互动</a></h3>
+        </li>
+        <li class="li1 hasUl1" id="li-zsyz3">
+            <h3 class="h1">
+                <a class="a1" href="/zsyz3">招商引资</a></h3>
+        </li>
+        <li class="li1 hasUl1" id="li-whly">
+            <h3 class="h1">
+                <a class="a1" href="/whly">文化旅游</a></h3>
+        </li>
+        <li class="li1 last1" id="li-wzdh">
+            <h3 class="h1">
+                <a class="a1" href="/wzdh">网站导航</a></h3>
+        </li>
+</ul>
+
+    <script type="text/javascript">
+        (function () {
+            var navST;
+            var navST1;
+            var name = 'mainNav';
+            var t = 200;
+            var type = 1;
+            var removeOn = 'False';
+            var effect = 'fade';
+            var appendItem = '#';
+            var li = "#" + name + " li";
+            var index = 0;
+
+            if (!$("#" + name + " .li1").hasClass("on1")) {
+                $("#" + name + " .li1").first().addClass("on1");
+            } //默认第一个加.on1类
+            index = $("#" + name + " .li1").index($("#" + name + " .on1"));
+
+            //鼠标离开导航后，回复默认.on1类位置
+            $("#" + name)
+                .hover(
+                    function () {
+                        if (navST1 != null) {
+                            clearTimeout(navST1);
+                        }
+                    },
+                    function () {
+                        navST1 = setTimeout(function () {
+                                $("#" + name + " .li1").removeClass("on1").eq(index).addClass("on1");
+                            },
+                            500);
+                    }
+                );
+
+            if (type == '1') {
+                li = "#" + name + " .li1";
+            }
+            if (appendItem != '#') { //插入内容
+                var appendHtml = $(appendItem).html();
+                $(li).first().append(appendHtml);
+                $(appendItem).remove();
+            }
+
+            if (type == '3') {
+                $("#" + name + " .on1").find("ul").first().show();
+            }
+
+            $(li)
+                .hover(function () {
+                        var curItem = $(this);
+                        var onNum = (curItem.attr("class").split(" "))[0].replace("li", "");
+                        $(li).removeClass("on" + onNum);
+                        curItem.addClass("on" + onNum);
+                        navST = setTimeout(function () { //延时触发
+
+                                if ($("ul:first", curItem).css("display") != "block") {
+                                    $(li + " .ul" + onNum).hide();
+                                    if (effect == 'fade') {
+                                        $("ul:first", curItem).fadeIn(t);
+                                    } else {
+                                        $("ul:first", curItem).slideDown(t);
+                                    }
+                                };
+                                navST = null;
+                            },
+                            t);
+                    },
+                    function () {
+                        if (navST != null) {
+                            clearTimeout(navST);
+                        }
+                        if (type == '1' || type == '2') {
+                            if (effect == 'fade') {
+                                $(this).find("ul").first().fadeOut(t);
+                            } else {
+                                $(this).find("ul").first().slideUp(t);
+                            }
+                        }
+                        if (removeOn == 'True') {
+                            $(this).removeClass("on1");
+                        }
+                    },
+                    t); //end hover
+        })()
+    </script>
+
+    </div>
+</nav>
+<!-- nav E -->
+<script>
+     //导航下拉效果
+        $(".mainNav")
+            .slide({
+                type: "menu",
+                titCell: ".item",
+                targetCell: ".itemSub",
+                titOnClassName: "currentItem",
+                effect: "slideDown",
+                delayTime: 200,
+                returnDefault: true,
+                triggerTime: 200
+            });
+</script>
+    
+
+
+
+<!-- content S -->
+<div id="content">
+    <div class="path">
+
+<em>您的位置：</em><a href="/">首页</a>
+&gt;<a href="/zmhd">政民互动</a></div>
+    <div class="clearbox"></div>
+    <!-- side S -->
+    <aside class="indSide">
+        <!-- 侧栏-人大建议 S -->
+        <div class="box js-tab" id="sideRdjy">
+            <div class="hd">
+                <a class="more" href="/zmhd/rdjy">more</a>
+                <ul>
+                	<li><a href="/zmhd/rdjy">人大建议</a></li>
+                    <li><a href="/zmhd/zxta">政协提案</a></li>
+                </ul>
+            </div>
+            <div class="bd">
+                <ul class="infoList">
+                    
+
+
+
+
+<li class="first">
+                <span class="date">11-26</span>
+        <a href="/zmhd/rdjy/content_223917" target="_blank" title="标题：泸县交通运输局对泸县第十六届人大第三次会议第22号建议的答复
+点击数：43
+发表时间：2019-11-26">
+        泸县交通运输局对泸县第十六届人大第…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-26</span>
+        <a href="/zmhd/rdjy/content_223906" target="_blank" title="标题：泸县交通运输局对泸县第十六届人大第三次会议第20号建议的答复
+点击数：34
+发表时间：2019-11-26">
+        泸县交通运输局对泸县第十六届人大第…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-26</span>
+        <a href="/zmhd/rdjy/content_223905" target="_blank" title="标题：泸县水务局对泸县第十六届人大第三次会议第11号建议的答复
+点击数：31
+发表时间：2019-11-26">
+        泸县水务局对泸县第十六届人大第三次…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-26</span>
+        <a href="/zmhd/rdjy/content_223904" target="_blank" title="标题：泸县水务局对泸县第十六届人大第三次会议第1号建议的答复
+点击数：22
+发表时间：2019-11-26">
+        泸县水务局对泸县第十六届人大第三次…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-26</span>
+        <a href="/zmhd/rdjy/content_223901" target="_blank" title="标题：泸县水务局对泸县第十六届人大第三次会议第14号建议的答复
+点击数：28
+发表时间：2019-11-26">
+        泸县水务局对泸县第十六届人大第三次…
+    </a>
+</li>
+
+
+
+
+
+
+<li class="last">
+                <span class="date">11-26</span>
+        <a href="/zmhd/rdjy/content_223900" target="_blank" title="标题：泸县水务局对泸县第十六届人大第三次会议第12号建议的答复
+点击数：23
+发表时间：2019-11-26">
+        泸县水务局对泸县第十六届人大第三次…
+    </a>
+</li>
+
+
+                </ul>
+                <ul class="infoList">
+                    
+
+
+
+
+<li class="first">
+                <span class="date">11-27</span>
+        <a href="/zmhd/zxta/content_223961" target="_blank" title="标题：泸县住房和城乡建设局对政协泸县第十届三次会议第206号提案的答复
+点击数：44
+发表时间：2019-11-27">
+        泸县住房和城乡建设局对政协泸县第十…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-27</span>
+        <a href="/zmhd/zxta/content_223960" target="_blank" title="标题：泸县住房和城乡建设局对政协泸县第十届三次会议第087号提案的答复
+点击数：38
+发表时间：2019-11-27">
+        泸县住房和城乡建设局对政协泸县第十…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-27</span>
+        <a href="/zmhd/zxta/content_223959" target="_blank" title="标题：泸县教育和体育局对政协泸县第十届三次会议第198号提案的答复
+点击数：50
+发表时间：2019-11-27">
+        泸县教育和体育局对政协泸县第十届三…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-27</span>
+        <a href="/zmhd/zxta/content_223958" target="_blank" title="标题：泸县教育和体育局对政协泸县第十届三次会议第011号提案的答复
+点击数：36
+发表时间：2019-11-27">
+        泸县教育和体育局对政协泸县第十届三…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-26</span>
+        <a href="/zmhd/zxta/content_223920" target="_blank" title="标题：泸县卫生健康局对政协泸县第十届三次会议第159号提案的答复
+点击数：34
+发表时间：2019-11-26">
+        泸县卫生健康局对政协泸县第十届三次…
+    </a>
+</li>
+
+
+
+
+
+
+<li class="last">
+                <span class="date">11-26</span>
+        <a href="/zmhd/zxta/content_223919" target="_blank" title="标题：泸县卫生健康局对政协泸县第十届三次会议第207号提案的答复 
+点击数：22
+发表时间：2019-11-26">
+        泸县卫生健康局对政协泸县第十届三次…
+    </a>
+</li>
+
+
+                </ul>
+            </div>
+        </div>
+        <!-- 侧栏-人大建议 E -->
+        <!-- 侧栏-意见征集 S -->
+        <div class="box js-tab" id="sideZxta">
+            <div class="hd">
+                <a class="more" href="/zmhd/yjzj">more</a>
+                <ul>
+                	<li><a href="/zmhd/yjzj">意见征集</a></li>
+                    <li><a href="/zmhd/jgfk">结果反馈</a></li>
+                </ul>
+            </div>
+            <div class="bd" style="height: 180px;">
+                <ul class="infoList">
+                    
+
+
+
+
+<li class="first">
+                <span class="date">03-02</span>
+        <a href="/zmhd/yjzj/content_235396" target="_blank" title="标题：《四川省生态环境保护督察工作实施细则（征求意见稿）》公开征求意见
+点击数：41
+发表时间：2020-03-02">
+        《四川省生态环境保护督察工作实施细…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">02-26</span>
+        <a href="/zmhd/yjzj/content_235397" target="_blank" title="标题：《2020年水稻集中展示评价品种》公开征求意见
+点击数：330
+发表时间：2020-02-26">
+        《2020年水稻集中展示评价品种》公开…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">01-03</span>
+        <a href="/zmhd/yjzj/content_235398" target="_blank" title="标题：【已结束】关于面向社会公众征求《关于进一步扶优扶强工业企业推动工业经济稳增长若干政策意见（征求意见稿）》意见的公告
+点击数：363
+发表时间：2020-01-03">
+        【已结束】关于面向社会公众征求《关…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-27</span>
+        <a href="/zmhd/yjzj/content_224086" target="_blank" title="标题：[已结束]关于公开征求《泸县经济开发区企业厂房租赁管理办法（征求意见稿）》修改意见的公告
+点击数：90
+发表时间：2019-11-27">
+        [已结束]关于公开征求《泸县经济开发…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-26</span>
+        <a href="/zmhd/yjzj/content_226839" target="_blank" title="标题：[已结束]泸县创建“0证明城市”工作领导小组办公室关于征求《泸县县本级证明材料取消清单》（征求意见稿）意见的通知
+点击数：405
+发表时间：2019-11-26">
+        [已结束]泸县创建“0证明城市”工作…
+    </a>
+</li>
+
+
+
+
+
+
+<li class="last">
+                <span class="date">10-09</span>
+        <a href="/zmhd/yjzj/content_219406" target="_blank" title="标题：[已结束]关于公开征求《泸县专职人民调解员管理办法（征求意见稿）》修改意见的公告
+点击数：108
+发表时间：2019-10-09">
+        [已结束]关于公开征求《泸县专职人民…
+    </a>
+</li>
+
+
+                </ul>
+                <ul class="infoList">
+                    
+
+
+
+
+<li class="first">
+                <span class="date">02-27</span>
+        <a href="/zmhd/jgfk/content_235399" target="_blank" title="标题：四川省人民政府2020年立法计划征求意见情况 
+点击数：4
+发表时间：2020-02-27">
+        四川省人民政府2020年立法计划征求意…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">11-05</span>
+        <a href="/zmhd/jgfk/content_221993" target="_blank" title="标题：关于公开征求《关于医药科技成果转化扶持资金管理办法（征求意见稿）》意见收集情况
+点击数：72
+发表时间：2019-11-05">
+        关于公开征求《关于医药科技成果转化…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">07-16</span>
+        <a href="/zmhd/jgfk/content_212629" target="_blank" title="标题：《四川省中药材产业发展规划（2018-2025年）（征求意见稿）》 征求意见采纳情况 
+点击数：268
+发表时间：2019-07-16">
+        《四川省中药材产业发展规划（2018-2…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">07-14</span>
+        <a href="/zmhd/jgfk/content_212628" target="_blank" title="标题：《四川电力现货市场建设试点方案》及相关实施细则 （模拟试运行征求意见稿）征求意见采纳情况
+点击数：327
+发表时间：2019-07-14">
+        《四川电力现货市场建设试点方案》及…
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">07-06</span>
+        <a href="/zmhd/jgfk/content_212627" target="_blank" title="标题：《四川省紧密型县域医疗卫生共同体建设试点工作实施方案（征求意见稿）》 征求意见采纳情况
+点击数：623
+发表时间：2019-07-06">
+        《四川省紧密型县域医疗卫生共同体建…
+    </a>
+</li>
+
+
+
+
+
+
+<li class="last">
+                <span class="date">07-01</span>
+        <a href="/zmhd/jgfk/content_212625" target="_blank" title="标题：2019年四川营商环境状况调查结果反馈情况 
+点击数：698
+发表时间：2019-07-01">
+        2019年四川营商环境状况调查结果反馈…
+    </a>
+</li>
+
+
+                </ul>
+            </div>
+        </div>
+        <!-- 侧栏-意见征集 E -->
+        <!-- 侧栏-网上调查 S -->
+        <div class="box js-tab" id="sideWsdc">
+            <div class="hd">
+                <a class="more" href="/survey/list">more</a>
+                <ul>
+                    <li><a href="/survey/list">网上调查</a></li>
+                </ul>
+            </div>
+            <div class="bd" style="height: 213px;">
+                <ul>
+                     
+        <li>
+            <div class="title">
+                <a href="/survey/25">新冠肺炎知信行调查问卷（一）</a>
+            </div>
+            <div class="btn">
+                <a href="/survey/25" class="join">参与调查</a>
+                <a href="/survey/statistics/25" class="result">查看结果</a>
+            </div>
+        </li>
+        <li>
+            <div class="title">
+                <a href="/survey/24">垃圾分类问卷调查</a>
+            </div>
+            <div class="btn">
+                <a href="/survey/24" class="join">参与调查</a>
+                <a href="/survey/statistics/24" class="result">查看结果</a>
+            </div>
+        </li>
+        <li>
+            <div class="title">
+                <a href="/survey/23">公民环保行为调查</a>
+            </div>
+            <div class="btn">
+                <a href="/survey/23" class="join">参与调查</a>
+                <a href="/survey/statistics/23" class="result">查看结果</a>
+            </div>
+        </li>
+
+                </ul>
+            </div>
+        </div>
+        <!-- 侧栏-网上调查 E -->
+    </aside>
+
+    <!-- side E -->
+    <!-- mainContent S -->
+    <div class="indMainContent">
+            <!-- petionSearch S -->
+            <div class="petionSearch">
+                <div class="write"><a href="/Petition/Notice"><i></i><span>我要写信</span></a></div>
+                <div class="searchBox">
+                    <div class="hd">信件搜索</div>
+                    <div class="bd">
+                        <input type="hidden" id="SearchUrl" value="/contentmanage/list" />
+                            <select class="department">
+                                <option selected="selected" value="0">全部部门</option>
+                                <option  value="1">电子政务办</option>
+                                <option  value="2">县住房城乡建设局</option>
+                                <option  value="3">县民政局</option>
+                                <option  value="4">县环保局</option>
+                                <option  value="5">县交通局</option>
+                                <option  value="6">县国土局</option>
+                                <option  value="7">县卫计局</option>
+                                <option  value="8">县发改局</option>
+                                <option  value="9">县经信局</option>
+                                <option  value="10">县商务局</option>
+                                <option  value="11">县投促局</option>
+                                <option  value="12">县教育局</option>
+                                <option  value="13">县公安局</option>
+                                <option  value="14">县司法局</option>
+                                <option  value="15">县财政局</option>
+                                <option  value="16">县人社局</option>
+                                <option  value="17">县农林局</option>
+                                <option  value="18">县文广新局</option>
+                                <option  value="19">县安监局</option>
+                                <option  value="20">县食药监局</option>
+                                <option  value="21">县市监局</option>
+                                <option  value="22">县城管局</option>
+                                <option  value="23">县粮食局</option>
+                                <option  value="24">县档案局</option>
+                                <option  value="25">县政务中心</option>
+                                <option  value="26">县交易中心</option>
+                                <option  value="27">县建管中心</option>
+                                <option  value="28">县供销社</option>
+                                <option  value="29">县科知局</option>
+                                <option  value="30">医药园区</option>
+                                <option  value="31">县经开区</option>
+                                <option  value="32">玉蟾街道</option>
+                                <option  value="33">福集镇</option>
+                                <option  value="34">嘉明镇</option>
+                                <option  value="35">喻寺镇</option>
+                                <option  value="36">方洞镇</option>
+                                <option  value="37">得胜镇</option>
+                                <option  value="38">天兴镇</option>
+                                <option  value="39">海潮镇</option>
+                                <option  value="40">潮河镇</option>
+                                <option  value="41">牛滩镇</option>
+                                <option  value="42">毗卢镇</option>
+                                <option  value="43">石桥镇</option>
+                                <option  value="44">玄滩镇</option>
+                                <option  value="45">云龙镇</option>
+                                <option  value="46">奇峰镇</option>
+                                <option  value="47">百和镇</option>
+                                <option  value="48">立石镇</option>
+                                <option  value="49">兆雅镇</option>
+                                <option  value="50">云锦镇</option>
+                                <option  value="51">太伏镇</option>
+                                <option  value="52">县气象局</option>
+                                <option  value="53">县旅游局</option>
+                                <option  value="54">县统计局</option>
+                                <option  value="55">县审计局</option>
+                                <option  value="56">县地税局</option>
+                                <option  value="57">县人防办</option>
+                                <option  value="58">县民宗办</option>
+                                <option  value="59">县残联</option>
+                                <option  value="60">泸县医保局</option>
+                                <option  value="61">退役军人管理局</option>
+                            </select>
+                        <input class="keyword" type="text" name="keyword" value="" placeholder="请输入关键字" />
+                        <input class="searchsubmit" type="submit" value="搜索" />
+                    </div>
+                </div>
+            </div>
+            <!-- petionSearch E -->
+            <!-- tabLetterBox S -->
+            <div class="tabLetterBox js-tab" id="sjxx">
+                <div class="hd">
+                    <ul>
+                        <li><a href="/petition/list">书记信箱</a></li>
+                        <li><a href="/zmhd/wlwzpt">泸州网络问政平台</a></li>
+                        <li><a href="/zmhd/12345rx">泸州12345热线</a></li>
+                        <a href="/flfww/wxzx" target="_blank" class="a"> 网上用法</a> <a href="/letterbox/zxzj/list" target="_blank" class="a"> 心灵驿站</a>
+                    </ul>
+                </div>
+                <div class="bd" style="height: 270px">
+                    <div class="letterList">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th class="ico"></th>
+                                    <th class="title"><span>信件主题</span></th>
+                                    <th class="dep">受理部门</th>
+                                    <th class="state">处理时间</th>
+                                    <th class="date">写信日期</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+        <tr class="openLetter first ">
+            <td class="num">1</td>
+            <td class="ico"><img src="/Content/_Common/Base/img/mail.png" alt="公开信件" title="公开信件"></td>
+            <td class="title"><a href="/petition/1439">养猪30头母猪，需要办理哪些相关手续</a></td>
+            <td class="dep">县农林局</td>
+            <td class="state"><i class="s3">03-02</i></td>
+            <td class="date">02-27</td>
+        </tr>
+        <tr class="openLetter even">
+            <td class="num">2</td>
+            <td class="ico"><img src="/Content/_Common/Base/img/mail.png" alt="公开信件" title="公开信件"></td>
+            <td class="title"><a href="/petition/1432">百合镇土主乡排楼村常年天然气气压不足和现在已经连续停水一个星期的问题</a></td>
+            <td class="dep">百和镇</td>
+            <td class="state"><i class="s3">02-18</i></td>
+            <td class="date">02-11</td>
+        </tr>
+        <tr class="openLetter ">
+            <td class="num">3</td>
+            <td class="ico"><img src="/Content/_Common/Base/img/mail.png" alt="公开信件" title="公开信件"></td>
+            <td class="title"><a href="/petition/1436">疫情期间如何回家探望老人</a></td>
+            <td class="dep">电子政务办</td>
+            <td class="state"><i class="s3">02-15</i></td>
+            <td class="date">02-15</td>
+        </tr>
+        <tr class="openLetter even">
+            <td class="num">4</td>
+            <td class="ico"><img src="/Content/_Common/Base/img/mail.png" alt="公开信件" title="公开信件"></td>
+            <td class="title"><a href="/petition/1428">奇峰镇玉田村天然气气压长期气压不足</a></td>
+            <td class="dep">县城管局</td>
+            <td class="state"><i class="s3">02-10</i></td>
+            <td class="date">02-03</td>
+        </tr>
+        <tr class="openLetter ">
+            <td class="num">5</td>
+            <td class="ico"><img src="/Content/_Common/Base/img/mail.png" alt="公开信件" title="公开信件"></td>
+            <td class="title"><a href="/petition/1427">结婚证</a></td>
+            <td class="dep">县民政局</td>
+            <td class="state"><i class="s3">01-30</i></td>
+            <td class="date">01-30</td>
+        </tr>
+        <tr class="openLetter last even">
+            <td class="num">6</td>
+            <td class="ico"><img src="/Content/_Common/Base/img/mail.png" alt="公开信件" title="公开信件"></td>
+            <td class="title"><a href="/petition/1423">关于鸦丰岩村自来水水压问题</a></td>
+            <td class="dep">喻寺镇</td>
+            <td class="state"><i class="s3">01-29</i></td>
+            <td class="date">01-22</td>
+        </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                    <ul class="infoList">
+                        
+
+
+
+
+<li class="first">
+                <span class="date">03-13</span>
+        <a href="/zmhd/wlwzpt/content_236409" target="_blank" title="标题：咨询办理食品安全健康证
+点击数：9
+发表时间：2020-03-13">
+        咨询办理食品安全健康证
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-12</span>
+        <a href="/zmhd/wlwzpt/content_236138" target="_blank" title="标题：市民咨询中专学历是否可以报考幼儿教师资格证 
+点击数：17
+发表时间：2020-03-12">
+        市民咨询中专学历是否可以报考幼儿教师资格证 
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-11</span>
+        <a href="/zmhd/wlwzpt/content_236064" target="_blank" title="标题：咨询农村房产继承问题
+点击数：22
+发表时间：2020-03-11">
+        咨询农村房产继承问题
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-10</span>
+        <a href="/zmhd/wlwzpt/content_235981" target="_blank" title="标题：关于泸县二中上网课方面的投诉
+点击数：33
+发表时间：2020-03-10">
+        关于泸县二中上网课方面的投诉
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-09</span>
+        <a href="/zmhd/wlwzpt/content_235589" target="_blank" title="标题：咨询泸州市现在酒店住宿有营业么
+点击数：28
+发表时间：2020-03-09">
+        咨询泸州市现在酒店住宿有营业么
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-06</span>
+        <a href="/zmhd/wlwzpt/content_235454" target="_blank" title="标题：咨询外省人员进出
+点击数：25
+发表时间：2020-03-06">
+        咨询外省人员进出
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-05</span>
+        <a href="/zmhd/wlwzpt/content_235383" target="_blank" title="标题：咨询独生子女补助问题
+点击数：17
+发表时间：2020-03-05">
+        咨询独生子女补助问题
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-04</span>
+        <a href="/zmhd/wlwzpt/content_235285" target="_blank" title="标题：请问复工健康证需要检查些什么 需要什么证明才能去办吗？
+点击数：23
+发表时间：2020-03-04">
+        请问复工健康证需要检查些什么 需要什么证明才能去办吗？
+    </a>
+</li>
+
+
+
+
+
+
+<li class="last">
+                <span class="date">03-03</span>
+        <a href="/zmhd/wlwzpt/content_235197" target="_blank" title="标题：咨询领养孩子相关政策
+点击数：25
+发表时间：2020-03-03">
+        咨询领养孩子相关政策
+    </a>
+</li>
+
+
+                    </ul>
+                    <ul class="infoList">
+                        
+
+
+
+
+<li class="first">
+                <span class="date">03-13</span>
+        <a href="/zmhd/12345rx/content_236410" target="_blank" title="标题：关于党组织关系查询及转出流程
+点击数：11
+发表时间：2020-03-13">
+        关于党组织关系查询及转出流程
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-12</span>
+        <a href="/zmhd/12345rx/content_236137" target="_blank" title="标题：市民咨询泸州交管12123是否开通了线上学习和考试的通道 
+点击数：16
+发表时间：2020-03-12">
+        市民咨询泸州交管12123是否开通了线上学习和考试的通道 
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-11</span>
+        <a href="/zmhd/12345rx/content_236063" target="_blank" title="标题：咨询泸县潮河镇农村田坎修筑问题
+点击数：19
+发表时间：2020-03-11">
+        咨询泸县潮河镇农村田坎修筑问题
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-10</span>
+        <a href="/zmhd/12345rx/content_235979" target="_blank" title="标题：从河南项城回喻寺是否需要隔离14天?
+点击数：25
+发表时间：2020-03-10">
+        从河南项城回喻寺是否需要隔离14天?
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-09</span>
+        <a href="/zmhd/12345rx/content_235587" target="_blank" title="标题：咨询事业单位体检问题
+点击数：30
+发表时间：2020-03-09">
+        咨询事业单位体检问题
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-06</span>
+        <a href="/zmhd/12345rx/content_235453" target="_blank" title="标题：咨询独生子女补贴问题
+点击数：8
+发表时间：2020-03-06">
+        咨询独生子女补贴问题
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-05</span>
+        <a href="/zmhd/12345rx/content_235382" target="_blank" title="标题：有关疫情防控期间上课问题
+点击数：17
+发表时间：2020-03-05">
+        有关疫情防控期间上课问题
+    </a>
+</li>
+
+
+
+
+
+
+<li>
+                <span class="date">03-04</span>
+        <a href="/zmhd/12345rx/content_235281" target="_blank" title="标题：关于职校生能否重新参加中考
+点击数：7
+发表时间：2020-03-04">
+        关于职校生能否重新参加中考
+    </a>
+</li>
+
+
+
+
+
+
+<li class="last">
+                <span class="date">03-03</span>
+        <a href="/zmhd/12345rx/content_235196" target="_blank" title="标题：现在回家还需要隔离吗？
+点击数：46
+发表时间：2020-03-03">
+        现在回家还需要隔离吗？
+    </a>
+</li>
+
+
+                    </ul>
+                </div>
+            </div>
+
+            <!-- tabLetterBox E -->
+            <!-- 在线访谈 S -->
+            <div class="box" id="tabZxft">
+                <div class="hd">
+                        <a href='/onlineinterview/list' class="more"></a>
+                    <h3>
+                        <a href="/onlineinterview/list">在线访谈</a>
+                    </h3>
+                </div>
+                <div class="bd">
+                    <div class="tCon">
+                        
+
+
+        <div class="interviewItem">
+            <div class="interviewPic">
+
+                <a href="/onlineinterview/48">
+
+                        <img alt="县委书记肖刚谈濑溪河水质提升" src="/upload/main/onlineinterview/moduledefault/image/201911131117428506_280_202.jpg" width="280" height="202" />
+
+                </a></div>
+            <div class="interviewCon">
+                <div class="title">
+                    <span class="label">访谈主题：</span>
+                    <span class="con"><a href="/onlineinterview/48">县委书记肖刚谈濑溪河水质提升</a></span>
+                </div>
+                <div class="date">
+                    <span class="label">访谈时间：</span>
+                    <span class="con">2019-11-13 10:53:12</span>
+                </div>
+                <div class="guest">
+                    <span class="label">访谈嘉宾：</span>
+                    <span class="con">县委书记 肖刚</span>
+                </div>
+                <div class="intro">
+                    <span class="label">访谈简介：</span>
+                    <span class="con">自第二批“不忘初心、牢记使命”主题教育开展以来，泸县坚持“查”和“改”贯通起来，深入检视和解决生态环保突出问题，通过检视问题让整改落实取得切实的效果，提升群众幸福感。</span>
+                </div>
+            </div>
+            <div class="interviewLink">
+                <a href="/onlineinterview/48" class="btn"><span>进入访谈</span></a>
+            </div>
+        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- 在线访谈 E -->
+    </div>
+    <!-- mainContent E -->
+</div>
+<!-- content E -->
+<script>$(".js-tab").slide({ delayTime:0 ,
+    startFun: function (i, c, s, t) { s.find(".more").attr("href", t.eq(i).find("a").attr("href")) }
+});</script>
+
+<!-- footer S -->
+<footer id="footer">
+    <div class="siteWidth">
+        <div class="footNav">
+            
+
+
+
+            <a class="tit " href="/wzxg/wzdt" title="网站地图">网站地图</a>
+                |
+            <a class="tit " href="/wzxg/lxwm3" title="联系我们">联系我们</a>
+                |
+            <a class="tit " href="/wzxg/wzsm1" title="网站声明">网站声明</a>
+
+            |
+            <a class="tit" href="/" title="返回主站">返回主站</a>
+        </div>
+        <div class="copyRight"><p style="text-align: center"><span style="font-family: 宋体, SimSun; text-decoration: none; font-size: 14px; color: #000000">主办：中共泸县县委 泸县人民政府 &nbsp; &nbsp; &nbsp; &nbsp;承办：泸县人民政府电子政务服务中心&nbsp;</span></p><p style="text-align: center"><span style="color: #000000"><span style="font-family: 宋体, SimSun; text-decoration: none; font-size: 14px; color: #000000">蜀ICP备</span><span style="font-size: 14px; color: #000000; font-family: 宋体, SimSun">05029076</span><span style="font-size: 14px; color: #000000">号<span style="font-size: 14px; color: #000000; font-family: 宋体, SimSun">-3</span><span style="font-family: 宋体, SimSun; color: #000000">号</span></span><span style="font-family: 宋体, SimSun; font-size: 14px; color: #000000"> &nbsp; &nbsp;</span></span><img src="/Upload/main/SiteManage/Site/image/de2bef86d09443909ea8f03da09042c8.png" alt="de2bef86d09443909ea8f03da09042c8.png"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51052102510587" target="_self"><span style="font-family: 宋体, SimSun; font-size: 14px; color: #000000">川公网安备 51052102510587号</span></a><span style="font-family: 宋体, SimSun; font-size: 14px; color: #000000">&nbsp; &nbsp; 政府网站标识码 5105210026</span></p><p style="text-align: center"><span style="font-family: 宋体, SimSun; font-size: 14px; color: #000000">地址：泸县玉蟾街道花园路2号&nbsp; &nbsp; 网站管理电话：0830-8185016</span></p></div>
+        <span id="ideConac"><a href="//bszs.conac.cn/sitename?method=show&amp;id=52619982BA1D5477E053022819AC4022" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="//dcs.conac.cn/image/red.png" data-bd-imgshare-binded="1"></a></span>
+        <div class="bottom-wl" style="text-align:center;">
+            <a href="http://www.12377.cn/" target="_blank" title="中国互联网违法和不良信息举报中心"> <img style="height:50px;" src="/Content/Main/Base/img/12377.jpg"></a>
+            <a href="http://www.scjb.gov.cn/" target="_blank" title="四川省互联网违法与不良信息举报中心"> <img style="height:50px;" src="/Content/Main/Base/img/scjb.jpg"></a>
+            <a href="http://www.scwmw.gov.cn/" target="_blank"> <img src="/Content/Main/Base/img/zbwm.png"></a>  
+            <a href="http://www.sclzga.gov.cn/" target="_blank"> <img src="/Content/Main/Base/img/wlbj.png" width="135px" height="47px"></a>
+            <script id="_jiucuo_" sitecode="5105210026" src="http://pucha.kaipuyun.cn/exposure/jiucuo.js"></script>
+        </div>
+        <!-- bottom-wl E -->
+    </div>
+</footer>
+<!-- footer E -->
+<!-- 侧栏固定菜单 -->
+<ul class="sideFixed">
+     <li class="wx">
+        <a href="javascript:void(0);">微信</a>
+        <div class="pic">
+            <img src="/Content/Main/Base/img/wx.jpg" />
+            <i></i>
+        </div>
+    </li>
+
+    <li class="alx">
+        <a href="javascript:void(0);">爱泸县</a>
+        <div class="pic">
+            <img src="/Content/Main/Base/img/qr-alx.jpg" />
+            <i></i>
+        </div>
+    </li>
+
+    <li class="wb">
+        <a target="blank" href='javascript:void(0);'>微博</a>
+         <div class="pic">
+            <img src="/Content/Main/Base/img/lxwb.jpg" />
+            <i></i>
+        </div>
+    </li>
+    <li class="sj">
+        <a href="/ForceUserAgent/ForceUserAgent/?useragent=phone">手机版</a>
+        <div class="pic">
+            <div data-content="http://www.luxian.gov.cn/zmhd" data-powertype="qrcode" data-size="150"></div>
+            <i></i>
+        </div>
+    </li>
+    <li class="obstacle">
+        <a target="blank" href='/wca.html'>无障碍</a>
+    </li>
+    <li class="gt">
+        <a href="javascript:;"></a>
+    </li>
+</ul> 
+<script>
+    $(".sideFixed li").hover(function () { $(this).addClass("on") }, function () { $(this).removeClass("on") });
+
+    $('.sideFixed .gt').click(function() {
+        $('html, body').animate({
+            'scrollTop': 0
+        }, 200);
+    });
+</script>
+
+
+    <div class="sideFixed-2">
+        <span><a href="http://www.luxian.gov.cn/bsfw">办事服务</a></span>
+    </div>
+
+
+<script>
+//百度统计代码
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?836fa5c4ce8e0d1a1ee80121ea327b2f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</div>
+    <script src="/Admin/Content/Assets/Scripts/audio.min.js?v=NpxxOM2mZQmYCRCBwi8VVxllfj7XvVmUZeq35WwgSn4"></script>
+    <script src="/Content/_Common/Base/js/layer/layer.js"></script>
+    <script src="/Content/_Common/Base/js/power.js?v=7_V1siA5mnO5-wBNs5INffMkfuxmkOfGdIqxI01SBTs"></script>
+    <script src="/Content/_Common/Assets/Scripts/jweixin.min.js?v=lay8pJtl0qkpsWuFazrOH88No027gScjRMDpA4tuwt4"></script>
+    <script src="/Content/_Common/Base/js/power-weixinshare.js?v=RsVT68MTgW02tCUhQxBoUuomZpPgciU920PfpuCeW6I"></script>
+    <script src="/Content/_Common/Assets/Scripts/pdf.js?v=isL9_SdrIdnFV2w-DRt-f_UXGs9NQfIH9IisgYYe4wY"></script>
+    <script src="/Content/_Common/Base/js/jquery.GBK.js?v=KiyAnRpGAkYdg2z0bV2zj4GP67naNNSn_byj8pEjJBU"></script>
+    <script src="/free_Web/free_Web_load.js?v=X-4NnHF7XFRSHPacpzKdP56kPBtDYb3U9Fk8CdACkKI"></script>
+    <script src="/free_Web/soundmanager2.js?v=iym7DRhdLtll4OhDkCZSu9_q8aoL3LNkxhZvnIdLsIM"></script>
+
+    
+    
+
+     <div style="display:block !important;z-index: 9;position: fixed;bottom:10px;left: 0;width: 400px;font-size: 12px;_position: absolute;">	
+   <div id="positionA" class="floatPosition fixedPositionA" style=" overflow: hidden; width: 300px;"><a href="http://www.sc.gov.cn/10462/c102241/fkxxhzbd.shtml" title="全力以赴 坚决打赢疫情防控阻击战" target="_blank"width> <img src="http://www.luzhou.gov.cn/Upload/ckq/ContentManage/Article/image/2020/02/19/aff29e4d4ec8421d9fcad312eb27d0a5.png" alt="全力以赴 坚决打赢疫情防控阻击战" width="300" /></a>
+   <a class="close" title="关闭" href="javascript:;" onclick="positionA.style.display = 'none';" style="left: 280px;"><span>×</span></a>
+</div>
+</div>
+</body>
+</html>
